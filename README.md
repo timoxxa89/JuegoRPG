@@ -18,6 +18,6 @@ Juego de rol por consola hecho en Java, donde puedes elegir entre diferentes cla
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/TuUsuario/JuegoRPG.git
+   git clone https://github.com/timoxxa89/JuegoRPG.git
 2. Abre el proyecto en tu IDE
 3. Ejecutá el archivo Main.java
